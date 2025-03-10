@@ -13,7 +13,6 @@ git clone https://github.com/yourusername/aws-sagemaker-sam.git
 2. **インフラストラクチャのデプロイ**
 
 ```bash
-cd aws-sagemaker-sam/terraform
 terraform init
 terraform plan
 terraform apply
